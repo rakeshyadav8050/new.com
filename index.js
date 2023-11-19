@@ -3,7 +3,7 @@ var box=document.querySelector("#box")
 var stops=document.querySelector("#stop")
 
 start.addEventListener("click",function(){
-    box.style.animation=" moved 2s 0ms ease-out infinite"
+    box.style.animation=" moved 1s 0ms ease-out infinite"
     start.style.backgroundColor="grey"
     
 })
